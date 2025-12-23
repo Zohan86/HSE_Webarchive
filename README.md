@@ -15,7 +15,7 @@ https://disk.yandex.ru/d/FZhLFJblGJE_VA - seledkagazeta.ru -  газета о к
 
 https://disk.yandex.ru/d/FZhLFJblGJE_VA - vostokoriens.ru - журнал Восток. Афро-азиатские общества: история и современность
 
-https://disk.yandex.ru/d/FZhLFJblGJE_VA - госавтоинспекция.рф - сайт ГАИ 
+https://disk.yandex.ru/d/FZhLFJblGJE_VA - госавтоинспекция.рф - сайт ГАИ . Выбрал, так как сайт имеет простую структура, css (имеет среднюю пригодность к архивации).
 
 Метод и технология
 В данной работе использовали несколько инструментов для создания полноценной коллекции веб-архивов.
